@@ -2,10 +2,10 @@ import mysql.connector as db
 from difflib import get_close_matches as gcm
 
 con = db.connect(
-user = "ardit700_student",
-password = "ardit700_student",
-host = "108.167.140.122",
-database = "ardit700_pm1database"
+user = "user-id",
+password = "password",
+host = "ip-address",
+database = "database name"
 )
 
 cursor = con.cursor()
