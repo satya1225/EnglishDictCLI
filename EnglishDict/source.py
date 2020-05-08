@@ -5,7 +5,7 @@ con = db.connect(
 user = "user-id",
 password = "password",
 host = "ip-address",
-database = "database name"
+database = "database nam"
 )
 
 cursor = con.cursor()
